@@ -1,0 +1,168 @@
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\Javascript_OOP.dll.config
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\Javascript_OOP.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\Javascript_OOP.pdb
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\csc.exe
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\csc.exe.config
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\csc.rsp
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\csi.exe
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\csi.exe.config
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\csi.rsp
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.AppContext.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Collections.Immutable.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Console.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.IO.Compression.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.IO.FileSystem.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.IO.Pipes.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Reflection.Metadata.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.AccessControl.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Claims.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.ValueTuple.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Xml.XPath.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\vbc.exe
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\vbc.exe.config
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\vbc.rsp
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\VBCSCompiler.exe
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\roslyn\VBCSCompiler.exe.config
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\VS Projects\Javascript_OOP\Javascript_OOP\obj\Debug\Javascript_OOP.csprojAssemblyReference.cache
+C:\VS Projects\Javascript_OOP\Javascript_OOP\obj\Debug\Javascript_OOP.csproj.CoreCompileInputs.cache
+C:\VS Projects\Javascript_OOP\Javascript_OOP\obj\Debug\Javascript_OOP.csproj.CopyComplete
+C:\VS Projects\Javascript_OOP\Javascript_OOP\obj\Debug\Javascript_OOP.dll
+C:\VS Projects\Javascript_OOP\Javascript_OOP\obj\Debug\Javascript_OOP.pdb
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\Javascript_OOP.dll.config
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\Javascript_OOP.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\Javascript_OOP.pdb
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\csc.exe
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\csc.exe.config
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\csc.rsp
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\csi.exe
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\csi.exe.config
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\csi.rsp
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.AppContext.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Console.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\vbc.exe
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\vbc.exe.config
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\vbc.rsp
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\obj\Debug\Javascript_OOP.csprojAssemblyReference.cache
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\obj\Debug\Javascript_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\obj\Debug\Javascript_OOP.csproj.CopyComplete
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\obj\Debug\Javascript_OOP.dll
+C:\Users\Bilge Adam\Desktop\Javascript_OOP\Javascript_OOP\obj\Debug\Javascript_OOP.pdb
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\Javascript_OOP.dll.config
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\Javascript_OOP.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\Javascript_OOP.pdb
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\csc.exe
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\csc.exe.config
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\csc.rsp
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\csi.exe
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\csi.exe.config
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\csi.rsp
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.AppContext.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Console.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\vbc.exe
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\vbc.exe.config
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\vbc.rsp
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\obj\Debug\Javascript_OOP.csprojAssemblyReference.cache
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\obj\Debug\Javascript_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\obj\Debug\Javascript_OOP.csproj.CopyComplete
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\obj\Debug\Javascript_OOP.dll
+C:\Users\Bilge Adam\Desktop\YAZILIM BİRİMİ ÇALIŞMALARI\İÇERİK ÇALIŞMALARI\Client Side\Client Side Son\Javascript OOP-JSON-RE\Javascript_OOP\Javascript_OOP\obj\Debug\Javascript_OOP.pdb

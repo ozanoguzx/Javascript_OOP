@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="../Scripts/classes.js"></script>
+    <script src="../Scripts/classesAsFunctions.js"></script>
+</head>
+<body>
+
+</body>
+</html>
+
+<script>
+
+    //FONKSİYON OLARAK AÇILAN SINIFLAR
+
+    //Fonksiyon ifadesi ile açılan sınıflar alttaki gibi tanımlanabilir.
+    var kisi1 = new Kisi("Osman");
+
+    alert(kisi1.ad);
+    kisi1.karsilama();
+
+
+    //Her class bir function olarak tanımlanır.
+
+
+    //Class vs Function
+
+      //let araba = Arac('Polo', 'Volkswagen', 'Gri');
+    //New ifadesi kullanılmazsa alttaki hata alınır.
+    //Uncaught TypeError: Class constructor Arac cannot be invoked without 'new'
+  
+
+    //Alttaki ise hata vermeyecektir. Constructor tanımlanmamıştır ancak otomatik olarak aynı c#'ta olduğu gibi boş constructor kendiliğinden oluşur.
+    //let car = new Vehicle('Civic', 'Honda', 'Black');
+
+
+    //Alttakiler kabul edilir yazım şekilleridir.
+    let araba = new Arac('Polo', 'Volkswagen', 'Gri'); // Class ifadesi
+    let car = Vehicle('Civic', 'Honda', 'Black'); // Function ifadesi
+
+
+
+
+    //Class ifadesi ile tanımlanmış sınıflara bakarsak;
+
+    //Nesne örneklemesini alttaki gibi gerçekleştirebiliriz.
+    let ilkNesne = new NesneAdi("Değer1", "Değer2");
+
+    ilkNesne.func1();
+    ilkNesne.func2();
+
+    //Inheritance Örneği
+    let d1 = new Dikdortgen(5, 10);
+
+    d1.adiniSoyle();
+    alert(d1.getAlan());
+
+
+    let k1 = new Kare(20);
+
+    k1.adiniSoyle();
+    alert(k1.getAlan());
+    k1.setAlan(75);
+    alert(k1.getAlan());
+
+</script>
+<!--Eğer scripti altta tutarsak, üstte class ifadesi ile tanımladığımız kod blokları hata verecektir. Eğer classlar, function ifadesi ile oluşturulursa, bu sorunu yaşamayız.-->
+<!--<script src="Scripts/classes.js"></script>-->

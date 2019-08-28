@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+</body>
+</html>
+<script src="../Scripts/prototyping.js"></script>
+<script>
+
+
+    var calisan1 = new Calisan("David", "Beckham", 45, 450);
+    var calisan2 = new Calisan("Roberto", "Carlos", 47, 390);
+
+
+    calisan1.gozrengi = "Siyah";
+    console.log(calisan1.gozrengi);
+    console.log(calisan2.gozrengi);
+
+    //Javascript dinamik bir dil olduğu için istersek yeni metotlar ve özellikler ekleyebiliyoruz.Gördüğümüz üzere calisan1 nesnesine göz rengi ekledik ve calisan2 bu özelliğe sahip olmadı.
+    Calisan.prototype.dogumyeri = "Adıyaman";
+
+    console.log(calisan1.dogumyeri);
+    console.log(calisan2.dogumyeri);
+
+    //Prototype'a yeni bir property eklendiğinde ise iki nesneye de miras verildiğini görebilmekteyiz.
+
+    //new kelimesi ile oluşturulan tüm nesneler __proto__ özelliğine sahip olur ve bu özellik, oluşturulan fonksiyonun prototype nesnesine işaret eder.
+
+    //Türetilen nesnelerin prototype nesnesine ulaşamayız. Ancak sınıfların prototype nesnesine ulaşılabilir. Bunun yanında türetilen nesnelerde __proto__ özelliği üzerinden prototype nesnesine erişebiliriz.
+
+    console.log(Calisan.prototype);  //Object
+    console.log(calisan1.prototype); //undefined
+    console.log(calisan1.__proto__); //Object
+
+    //Türetilen nesnelerin prototype özellikleri erişilemez durumda olacaktır.
+    //İstersek, getPrototypeOf() metodu ile de erişebiliriz.
+    console.log(Object.getPrototypeOf(calisan2));
+
+    //Eğer sonradan prototype özelliğinin değerini değiştirirsek, eski nesneler eski değere, yeni türetilen nesneler ise yeni değere sahip olacaklardır.
+
+
+    Calisan.prototype = { dogumyeri: "Van" };
+    var calisan3 = new Calisan("Carles", "Puyol", 50, 270);
+
+    alert("Çalışan 1 Doğum Yeri : " + calisan1.dogumyeri);
+    alert("Çalışan 2 Doğum Yeri : " + calisan2.dogumyeri);
+    alert("Çalışan 3 Doğum Yeri : " + calisan3.dogumyeri);
+
+    //Aynı .nette olduğu gibi tüm nesneler Object sınfından miras alırlar. Javascriptte bu prototype üzerinden sağlanır.
+
+    console.log(calisan3.toString());
+    //toString() metodu number'ı stringe çevirmede kullanılır ancak biz Calisan sınıfında bu metodu tanımlamadık.
+
+    //Javascript motoru ilk olarak calisan3 nesnesinde böyle bir fonksiyon tanımlı mı onu kontrol eder. Bulamazsa, __proto__ özelliğinden Calisan fonksiyonunun prototype nesnesine bakar. Yine bulamazsa, Object sınıfını kontrol eder. Object sınıfının prototype nesnesinde toString() metodu tanımlı olduğu için bu metodu çağırabildik.
+
+
+
+</script>
